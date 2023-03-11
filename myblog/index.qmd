@@ -1,5 +1,6 @@
 ---
-title: "myblog"
+title: "Мой блог"
+lang: ru
 listing:
   contents: posts
   sort: "date desc"
